@@ -64,6 +64,6 @@ Overall, its a decent although not groundbreaking improvement, with 24.3% fewer 
 
 ## Conclusion
 
-Going into this I believed the bias in these system was due to engineers focusing on other aspects such as accuracy, performance, and time to deployment. But this project has demonstrated that this is a very difficult problem with no easy solution. I was able to show that AAI based systems are superior to traditional methods, and that newer techniques tend to be more fair, so we're moving in the right direction, but we still have a long way to go.
+Going into this I believed the bias in these system was due to engineers focusing on other aspects such as accuracy, performance, and time to deployment. But this project has demonstrated that this is a very difficult problem with no easy solution. I was able to show that AI based systems are superior to traditional methods, and that newer techniques tend to be more fair, so we're moving in the right direction, but we still have a long way to go.
 
 As an extension to this project, perhaps in the future we can train an AI on a specially curated dataset to be as fair and inclusive as possible, Its accuracy will likely not be as good as the state of the art, but if we can prove that fairness is possible with an AI system, then perhaps it can lead to further development in the future.
